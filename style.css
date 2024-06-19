@@ -2,7 +2,12 @@
     font-family: "Arial Black";
     border: solid darkgreen;
     height: 220px;
+    width: 700px;
     background-color: cornflowerblue;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 #entradas{
@@ -12,8 +17,8 @@
 
 h1{
     text-align: center;
-    color: white;
+    color: #000000;
 }
 body{
-    background-color: #000000;
+    background-color: #32cfb7;
 }

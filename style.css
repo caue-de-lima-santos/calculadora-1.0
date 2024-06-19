@@ -1,0 +1,19 @@
+#corpo{
+    font-family: "Arial Black";
+    border: solid darkgreen;
+    height: 220px;
+    background-color: cornflowerblue;
+}
+
+#entradas{
+    padding: 10px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: #000000;
+}
